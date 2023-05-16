@@ -1,6 +1,5 @@
-# ECE141-WI20-Assignment5
-## It's all fun and games until somebody gets hurt...
-### Assignment due March 14, 11:15pm (PST)
+# Checker Board Game and bot players
+### Original Github Classroom private repo: https://github.com/UCSD-ECE141/ece141-wi21-assignment5-audreygao
 
 ## Let's Play Checkers
 
